@@ -1,0 +1,13 @@
+.card-row {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin-right: 50px;
+  margin-left: 50px;
+}
+.crumb{
+
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
